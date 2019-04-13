@@ -4,7 +4,7 @@ sum
 end
 
 def assign_variable(value)
-  
+  var_name = value
 end
 
 def argue

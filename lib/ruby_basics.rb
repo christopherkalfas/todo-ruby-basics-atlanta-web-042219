@@ -11,7 +11,8 @@ def argue(arguement)
   return arguement
 end
 
-def greeting
+def greeting(arguement1, arguement2)
+  
 
 end
 
